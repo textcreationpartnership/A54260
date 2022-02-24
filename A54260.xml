@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The P. of Orange's engagement for maintaining and securing the Protestant religion &amp; liberties of the people of England, according to his late gracious declaration humbly reminded to be performed by their most sacred Majesties K. William and Q. Mary, in their royal assent in Parliament, to the perpetual establishment of liberty of conscience.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54260</idno>
+            <idno type="STC">Wing P140A</idno>
+            <idno type="STC">ESTC R15860</idno>
+            <idno type="EEBO-CITATION">12007179</idno>
+            <idno type="OCLC">ocm 12007179</idno>
+            <idno type="VID">52348</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54260)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52348)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 818:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The P. of Orange's engagement for maintaining and securing the Protestant religion &amp; liberties of the people of England, according to his late gracious declaration humbly reminded to be performed by their most sacred Majesties K. William and Q. Mary, in their royal assent in Parliament, to the perpetual establishment of liberty of conscience.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Hayhurst,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694.</term>
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:52348:1" rendition="simple:additions"/>
+            <head>The P. of Orange's Engagement For Maintaining and Securing the Proteſtant Religion, &amp; Liberties of the People of <hi>England,</hi> According to His Late Gracious Declaration.</head>
+            <head type="sub">Humbly Reminded To be Performed by Their Moſt Sacred Majeſties K. <hi>WILLIAM</hi> and Q. <hi>MARY,</hi> in Their Royal Aſſent in PARLIAMENT, to the Perpetual Eſtabliſhment of <hi>Liberty of Conſcience.</hi>
+            </head>
+            <p>
+               <hi>Moved in Ten Reaſons for a Religious Freedom. With Allowance.</hi>
+            </p>
+            <div n="1" type="reason">
+               <head>
+                  <hi>REASON</hi> I.</head>
+               <p>IT is not the Will of the Great and Wiſe God, to appoint any Forcible Ways or Courſes to bring Men and Women to con<g ref="char:EOLhyphen"/>form to his VVorſhip: But Chriſt was pleaſed to Commiſſionate his Apoſtles (to whom he committed the Keys of his Church) to Preach and Declare the Chriſtian Doctrin: And they that ſucceed them in their Of<g ref="char:EOLhyphen"/>fice, are not by <hi>Might</hi> or by <hi>Power,</hi> but by gentle Invitation, and the Influence of his kind Spirit, to inform the Judgment, convince the Conſcience, and ſo to perſwade the Children of Men to be <hi>Reconciled unto God.</hi> And who is Man, that he ſhould take another courſe, and will not reſt in God's wiſdom? <hi>Now we are Ambaſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dors for Chriſt, as though God did beſeech you through us; we pray you in Chriſts ſtead, be ye reconciled to God.</hi>
+               </p>
+            </div>
+            <div n="2" type="reason">
+               <head>
+                  <hi>REASON</hi> II.</head>
+               <p>THe uſing outward Compulſion in matters of Conſcience, does only ſerve to make Men Hypocrites, but works no ſaving Converſion. If Men conform to any VVorſhip or way thereof, with an unwilling mind, they cannot ſerve God aright, though the VVorſhip be right, becauſe the Heart of the VVorſhipper is not right. God calls for the Heart, <hi>My Son, give me thy Heart.</hi> If it were not for compulſion, the Man would be in ſome other Practice or Profeſſion; and when he Conforms only to ſave his Perſon or his Purſe, he is the Servant of <hi>Man,</hi> and not the Servant of <hi>God,</hi> and this is not to ſave his Soul. <hi>Not by con<g ref="char:EOLhyphen"/>straint, but willingly; not for filthy lucre, but a rea<g ref="char:EOLhyphen"/>dy mind.</hi>
+               </p>
+            </div>
+            <div n="3" type="reason">
+               <head>REASON III.</head>
+               <p>ALL ſorts of Perſons are for Liberty of Con<g ref="char:EOLhyphen"/>ſcience for themſelves, even thoſe that are moſt impoſing upon others. They would account it hard meaſure to be conſtrain'd to perform, or forbear ſuch and ſuch things which concern their Religion, or to ſuffer unproportionable penalties. And why ſhould not the Church-Proteſtants make the <hi>Presbyterians,</hi> the <hi>Independants,</hi> the <hi>Papiſts</hi> caſe their own in this point, ſeeing they are all Fellow-Chriſtians. <hi>Therefore, whatſoever things ye would that men ſhould do unto you, do ye ſo unto them, for this is the Law and the Prophets.</hi>
+               </p>
+            </div>
+            <div n="4" type="reason">
+               <head>
+                  <hi>REASON</hi> IV.</head>
+               <p>THe good Rules of Humanity, and common Civility, which is carefully obſerved in ſmal<g ref="char:EOLhyphen"/>ler matters, are openly violated, by uſing of force in the matters of Conſcience. Men abhor to thruſt that Meat and Drink down their Neighbour's Throat, which will not agree with their Sto<g ref="char:EOLhyphen"/>machs. They ſay commonly, <hi>Pray take that which beſt likes you:</hi> and why are they not as civil in the matter of Religion? <hi>Have compaſſion on one ano<g ref="char:EOLhyphen"/>ther, love as Brethren, be pitiful, be courteous.</hi>
+               </p>
+            </div>
+            <div n="5" type="reason">
+               <head>
+                  <hi>REASON</hi> V.</head>
+               <p>THe Church Proteſtants in <hi>England</hi> were ſore diſtreſſed by hot doings heretofore in the Reign of Q. <hi>Mary,</hi> when they were accounted Criminals, for not conforming to that Worſhip which was then the Eſtabliſht Worſhip of the Kingdom; and whoever take up the ſame Spirit of Perſecution againſt others, for Nonconformity to the preſent Worſhip now Eſtabliſht, doth not only juſtifie the violent proceedings under Queen <hi>Mary</hi> from their own principles and practices, but alſo, upon mounting that part of the Wheel at top again, (as lately endangered us, tho' now down) will leave themſelves no Excuſe nor Cauſe of Com<g ref="char:EOLhyphen"/>plaint, if God bring the ſame ſeverity to fall up<g ref="char:EOLhyphen"/>on them. <hi>For with the ſame meaſure men me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e withal, it ſhall be meted to them again.</hi>
+               </p>
+            </div>
+            <div n="6" type="reason">
+               <pb n="2" facs="tcp:52348:2"/>
+               <head>
+                  <hi>REASON</hi> VI.</head>
+               <p>THe Conforming and Nonconforming Prote<g ref="char:EOLhyphen"/>ſtants, and the Proteſtants and Papiſts all do agree as to the ſubſtance of Chriſtianity, in the ſame Articles of Faith, and the ſame Rule of Manners, in the Apoſtles Creed, and the Ten Commandments. <hi>There is one Body, one Spirit, one Lord, one Faith, one Baptiſm.</hi> As a variety of Flowers may grow on the ſame Bank, ſo may Pro<g ref="char:EOLhyphen"/>teſtants of all ſorts, Church-men, Presbyterians, Independants, Anabaptiſts, Quakers, and Papiſts live in <hi>England.</hi> Union in <hi>Affection</hi> is not incon<g ref="char:EOLhyphen"/>ſiſtent with diſagreement of <hi>Opinion.</hi> There is much more Reaſon to love one another for the many things wherein we agree, than to fall out for thoſe wherein we differ; and though we cannot have communion in the ſame external worſhip, we can and have communion in the ſame internal Adora<g ref="char:EOLhyphen"/>tion of the ſame Bleſſed Trinity, and in the one hope of our calling unto Life Eternal, through Je<g ref="char:EOLhyphen"/>ſus Chriſt. We cannot come together in the ſame <hi>Church,</hi> but may live together in the ſame <hi>Land;</hi> and as we are under the ſame Gracious King and Queen, they may protect both, and ſuffer no Par<g ref="char:EOLhyphen"/>ty to perſecute one another. <hi>The Woolf ſhall lie down with the Lamb, the Leopard with the Kid; they ſhall not hurt nor deſtroy in all my holy mountain.</hi>
+               </p>
+            </div>
+            <div n="7" type="reason">
+               <head>
+                  <hi>REASON</hi> VII.</head>
+               <p>THe <hi>French</hi> Proteſtants, who are the Diſſenters from the Eſtabliſhed Worſhip of that King<g ref="char:EOLhyphen"/>dom, have been kindly received and ſuccoured by <hi>England,</hi> even under both our late Kings: And when the <hi>French</hi> King is highly blamed by <hi>Engliſh</hi> Proteſtants, and perhaps too by moſt <hi>Engliſh</hi> Ca<g ref="char:EOLhyphen"/>tholicks, for perſecuting his peaceable Subjects, ſhould we go to do the ſame things in our King<g ref="char:EOLhyphen"/>dom which we condemn in another? God forbid. <hi>Therefore art thou inexcuſable, O man, whoſoever thou art, for thou that Judgeſt another, doſt the ſame things.</hi>
+               </p>
+            </div>
+            <div n="8" type="reason">
+               <head>
+                  <hi>REASON.</hi> VIII.</head>
+               <p>THe proſecuting Diſſenters and Recuſants for matters of Conſcience is of great diſadvan<g ref="char:EOLhyphen"/>tage to the Trade of the Kingdom, the Diſſenters being a chief part of the Trading People of the Nation, conſidered as Merchants, Shop-keepers, Clothiers, Farmers, <hi>&amp;c.</hi> by which many thouſands of the Kings poor Subjects are maintained, and conſequently Liberty of Conſcience muſt be a moſt effectual means for the reſtoring of it.</p>
+               <p>I will mention a ſtory or two, which may be eaſily atteſted, if they be called into Queſtion. One <hi>Thomas Peard</hi> about 19 Years ſince of <hi>West Dean</hi> near <hi>Barnſtable,</hi> who kept many poor Peo<g ref="char:EOLhyphen"/>ple at work in the Clothing Trade, was proſecu<g ref="char:EOLhyphen"/>ted upon the Act for Twenty Pound a Month, ſo many Months for not coming to Church, that he was forced to quit his Habitation and Imploy<g ref="char:EOLhyphen"/>ment. Upon this the poor People of many Pa<g ref="char:EOLhyphen"/>riſhes go a Begging, and the numbers preſently were ſo great, that the Juſtices were ſain to meet, and conſulting together, conclude upon it to get the Man's Fines to be diſcharged. This being done, <hi>Peard</hi> returns to his buſineſs, takes the poor off their hands, and finds them again the ſame Li-</p>
+               <p>In like manner, about 17 Years ſince, the Biſhop of <hi>Sarum</hi> ſends forth Inſtructions into all the pa<g ref="char:EOLhyphen"/>riſhes of his Dioceſs for bringing them to Church, or citing them to his Court. There were Eighty Clothiers Nonconformiſts of ſeveral Judgments in the County of <hi>Wilts,</hi> who being Alarum'd by this Summons, think of withdrawing their Trade, (the time for proviſion of their Wool favouring ſuch a ſuſpention) but conſidering what a number of poor depended on them, ſome imploying 500, ſome 1000 people under them, who were capable of getting no other maintenance: Beſides that, the Farmer was no leſs concerned than the Spinner and the Carder, who could have no Money for his Wool; fearing alſo, that if they ſhould give over on a ſudden, there might ſo much clamour enſue, as might turn into ſome uproar, they agree upon ſending up eight or ten of their ſufficient men to repreſent their Caſe to the King and Council. Or<g ref="char:EOLhyphen"/>ders are taken hereupon that the Archbiſhop writes to the Biſhop to deſiſt, and aſſurance is given by both the Secretaries to the Clothiers, for their ſafety in keeping on their Imployment.</p>
+               <p>VVhat thoſe Juſtices, and what the Council at that time ſaw convenient for that Shire, and thoſe Towns, will be diſcerned (I doubt not) by the conſiderate to be of the like Emolument through<g ref="char:EOLhyphen"/>out the Nation.</p>
+               <p>The Riches of a Nation are the Bodies of Men; for the greatneſs of a Kingdom certainly conſiſts not in a vaſt continent of Ground, but in the mul<g ref="char:EOLhyphen"/>titude of its Inhabitants; and the thriving of the People, lies in the encreaſe of Trade Manufacture
+<pb n="3" facs="tcp:52348:2"/>and Commerce, as is intimated. <hi>An Act for <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſal Toleration</hi> (Stated rightly, that is, of All, ſo far as they are tolerable, whereof the wiſdom of a Parliament is the fitteſt Judge) would produce both theſe; it would bring People that are perſe<g ref="char:EOLhyphen"/>cuted in our Neighbor-Nations about their Reli<g ref="char:EOLhyphen"/>gion, to <hi>England,</hi> as it does or hath done to <hi>Hol<g ref="char:EOLhyphen"/>land;</hi> and they muſt bring their Hands and Buſi<g ref="char:EOLhyphen"/>neſs with them. Beſides the infinite Encourage<g ref="char:EOLhyphen"/>ment it would give to many, who of late have kept in their Moneys, by reaſon of their obnoxiouſneſs to the Law, which they muſt bring forth moſt In<g ref="char:EOLhyphen"/>duſtriouſly into Imployment, as ſoon as they ſee themſelves ſafe under ſettlement, and their Con<g ref="char:EOLhyphen"/>ſciences out of danger. <hi>And when</hi> Iſſachar <hi>ſaw that Reſt was good, and the Land that it was pleaſant, he bowed his Shoulder to bear, and became a Servant unto Tribute.</hi>
+               </p>
+            </div>
+            <div n="9" type="reason">
+               <head>REASON. IX.</head>
+               <p>IT hath pleaſed our moſt Gracious Soveraign K. <hi>WILLIAM</hi> the <hi>Third</hi> (whom God bleſs ſtill with a gentle mind and good days) to declare to the Nation at his coming to the Kingdom, that theſe two things, <hi>Comprehenſion</hi> and <hi>Indulgence,</hi> (which he expreſſes by <hi>A good Agreement between the Church of</hi> England <hi>and Proteſtant Diſſenters, and the covering others that will live peaceably from Per<g ref="char:EOLhyphen"/>ſecution, even the Papiſts themſelves not excepted)</hi> was one end or certain Intention of his Underta<g ref="char:EOLhyphen"/>king, which therefore in repeated words he con<g ref="char:EOLhyphen"/>firms; <hi>[And we for our part will concurrin every thing with a Parliament, to procure the Happineſs of the Nation; ſince we have nothing before our Eyes in this our <g ref="char:V">Ʋ</g>ndertaking, but the Preſervation of the Prote<g ref="char:EOLhyphen"/>ſtant Religion, the covering all men from Perſecution for their Conſcience, and Secure to the whole Nation the free Enjoyment of their Laws, Rights, and Liber<g ref="char:EOLhyphen"/>ties, under a Juſt and Legal Government.]</hi> Then <hi>af<g ref="char:EOLhyphen"/>ter five daies</hi> Ananias <hi>the High Prieſt deſcended with the Elders, and an Orator named</hi> Tertullus, <hi>who when he was called forth, ſpake thus, Seeing that by thee we en<g ref="char:EOLhyphen"/>joy great quietneſs, and that by thee very worthy Deeds have been done for this Nation, we accept it alwaies, and in all places, moſt Noble Felix, with all Thank<g ref="char:EOLhyphen"/>fulneſs.</hi>
+               </p>
+            </div>
+            <div n="10" type="reason">
+               <head>REASON. X.</head>
+               <p>THeſe are ſome Reaſons (among Multitudes) that have ſlown abroad for <hi>Toleration,</hi> and they are no pickt chofen<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nes, but the moſt ready and ordinary to the meaneſt Capacity, ſuch as I have catch'd upmoſt eaſily, from the Papers only of one or two that were mean men, only changing a little their ſtile, to avoid the baldneſs and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>lixity: I will now add ſome Teſtimonies out of my own former Reading, and theſe Teſtimonies, which are <hi>Argumentum ab Authoritate,</hi> ſhall be my tenth and laſt Conſideration, or Reaſon.</p>
+               <p>It is not like in the three firſt Centuries of the Church, that any thing is to be found in the Chri<g ref="char:EOLhyphen"/>ſtian writings, for the uſe of the Sword in Religi<g ref="char:EOLhyphen"/>on, whilſt themſelves were under it. In the next enſuing, we have <hi>Conſtantine, Conſtantine, Jovian, Val<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntinian, Valens, Theodoſius,</hi> and after thoſe, <hi>Ho<g ref="char:EOLhyphen"/>norius</hi> and <hi>Arcad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us</hi> may be cited for their larger permiſſions, eſpecially towards the <hi>Jews,</hi> by thoſe that will be at the pains to do it.</p>
+               <p>In the Year 386. <hi>Idacius</hi> and <hi>Ithacius</hi> were con<g ref="char:EOLhyphen"/>demned by the <hi>Gallican</hi> Biſhops for being Authors of bringing the <hi>Priſcillianists</hi> to Execution. And St. <hi>Auguſtine</hi> no doubt with the Fathers general<g ref="char:EOLhyphen"/>ly are againſt any Sanguinary Laws in this mat<g ref="char:EOLhyphen"/>ter. <hi>Nullis bonis in Catholica Eccleſia hoc placet, ſi uſque ad mortem in quemquam Haereticum ſaeviatur. Contra Creſconium,</hi> Lib. 3. Cap. 50. Hence were they called <hi>Ithacians,</hi> and held for Hereticks, who main<g ref="char:EOLhyphen"/>tained, That thoſe who erred in Religion, ought to be put to Death. And it is obſerved, it was <hi>Dominick</hi> was the firſt that brought up the Fire among Chriſtians upon that account. <hi>Withdraw from them, avoid them</hi> (ſays the Scripture) <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>but not bea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> or perſecute them as the Heathens do,</hi> ſaies <hi>Ignatius.</hi> For <hi>it is an unheard-of, ſtrange kind of preaching the Goſpel</hi> (ſays <hi>Gregory</hi>) <hi>to exact Belief</hi> (as the <hi>Egypti<g ref="char:EOLhyphen"/>ans</hi> their Bricks) <hi>with Stripes. Docere arbitramur</hi> (ſays <hi>Theodoſius</hi> and <hi>Valentiman</hi>) <hi>noſtrum imperium ſubditos noſtros de Religione commonefacere;</hi> They choſe not to ſay <hi>(imperare)</hi> but <hi>(commonefacere)</hi> ſignifying thereby, that Religion ought not to be forced. <hi>Nihilenim</hi> (ſays <hi>Lactantius</hi>) <hi>tam volunta<g ref="char:EOLhyphen"/>rium quam Religio, in qua ſi animus eſt Sacrificantis averſus, jam ſublata, jam nulla eſt. Religio imperari</hi> (ſays <hi>Caſſidore</hi>) <hi>non potest.</hi> And, <hi>Suadenda est,</hi> ſays St. <hi>Bernard, non imperanda. Praecepit Sancta Syno<g ref="char:EOLhyphen"/>dus,</hi> (ſays the <hi>Tole<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an Council de Judaeis</hi>) <hi>nemini de<g ref="char:EOLhyphen"/>inceps ad credendum vim inferre.</hi> And <hi>The New Law</hi> (ſays <hi>Tertullian</hi>) <hi>does not vindicate it ſelf</hi> Ultra Gla<g ref="char:EOLhyphen"/>dio. The <hi>Jews</hi> took no ſuch courſe (as peſtilent as their Doctrine was) with the <hi>Sadduces,</hi> nor Chriſt with the <hi>Samaritans,</hi> See <hi>Luke</hi> 9.35. <hi>Mat.</hi> 13.28, 29. <hi>John</hi> 18.36. <hi>John</hi> 6.67. <hi>And will ye alſo go away,</hi> ſays Chriſt to the Twelve? Which
+<pb n="4" facs="tcp:52348:3" rendition="simple:additions"/>are words removing all force and neceſſity from Man in the choice of his Religion. So <hi>Chryſostom, Athanaſius, Cyprian,</hi> I may alſo add <hi>Aug.</hi> &amp; <hi>Sa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n.</hi>
+               </p>
+               <p>We may read in the Life of <hi>J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſeohus,</hi> when ſome of the <hi>Trachonites</hi> came in f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Reſcue to the <hi>Jews,</hi> where himſelf was Governo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r and the <hi>Jews</hi> would thereupon conſtrain them to be Circumciſed, or elſe not let them abide with them, he would not permit that injurious Zeal, alledging, That <hi>every Man ought according to his own mind, and not by Mans compulſion to ſerve God.</hi> In our Engliſh Sto<g ref="char:EOLhyphen"/>ry (to ſuit this) by <hi>Bed<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> when <hi>Ethelbert</hi> the firſt prince that received Chriſtianity of the <hi>Saxon</hi> Heptarchy, was converted by <hi>Auſtin,</hi> ſent hither by <hi>Grego<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y,</hi> and many thereupon came into the Church, it is ſaid, <hi>He eſpicially embraced thoſe that came in, but Compelled none; for he had learned that the Faith and Service of Christ ought to be voluntary and not of constraint.</hi> 
+                  <q rend="margQuotes">"It helpeth much, ſays the Imperial Edict of <hi>Constantine</hi> and <hi>Licinius,</hi> to eſta<g ref="char:EOLhyphen"/>bliſh the publick Tranquility, for every man to have liberty to uſe and chuſe what kind of wor<g ref="char:EOLhyphen"/>ſhipping himſelf pleaſes; and for that intent is this done of us, to have no man enforced to one Religion more than to another.</q> 
+                  <hi>A Prince who would draw his Subjects (divided into Sects and Fa<g ref="char:EOLhyphen"/>ctions) to his Religion, ſhould not (in my Opinion) uſe Force,</hi> ſays <hi>Bodin;</hi> I will enhance this from the example of <hi>Theodoſius</hi> that eminently good Empe<g ref="char:EOLhyphen"/>rour, who though he being offended with <hi>Euno<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ius,</hi> did baniſh him upon a particular account, uſed no coertion or ſeverity upon the perſon of any other Sect whatſoever. <hi>Reliquis ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> moleſtiae q<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>quam exhibuit, ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſecum communicare eoegit; ſed ſingulis copiam fecit in locis ſeparatis conventus <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>endi, &amp; ita de Religione Christiana ſentiendi, ut quiſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> de ea opinionem conceperat.</hi>
+               </p>
+               <p>
+                  <hi>John Barclay</hi> (not <hi>William</hi> that wrote <hi>Adverſus Monarcho<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>athos</hi>) hath a Diſcourſe on purpoſe to this effect about the <hi>Calviniſts</hi> (as it is thought) under the Name of the <hi>Hypere<g ref="char:EOLhyphen"/>phanians,</hi> in one chapter of his <hi>Argenis.</hi> And <hi>Camerarius</hi> in his Hiſtorical Meditations, hath a chapter as Learned, Full, and Grave; as need to be on this Subject, <hi>lib.</hi> 3. <hi>cap.</hi> 18. <q rend="margQuotes">"It was obſerved by the Popes Council (ſays <hi>Guicciardine</hi>) that the Proſecution of <hi>Luther,</hi> ſince it was not accompanied with their own Reformation, did encreaſe his Reputation; and that it had been a leſs Evil to Diſſemble the knowledge of ſuch a matter, which would perhaps have diſſolv'd of it ſelf, than by blowing at the Brand, to make the Fire burn the more.</q> I here may be ſome Notes conferred with this out of <hi>Devilah,</hi> upon the deliberations of the Politick <hi>Katha<g ref="char:EOLhyphen"/>rine,</hi> Regent of <hi>France,</hi> about the Pacification in her Son <hi>Henry</hi> the Thirds time; I will reſt in one after <hi>Henry</hi> the Fourth ſucceeded. That great Prince thought fit to declare himſelf <hi>Catholick,</hi> but gets the fame Edict for Liberty to the <hi>Hugonots,</hi> to be renewed and paſſed the Parliament of <hi>Paris.</hi> 
+                  <q rend="margQuotes">"By which means endeavouring to remove Suſpicion from their minds, and confirming them by good Uſage, together with ſome Guts and Promiſes to the chief Heads, he inſenſibly took away (ſays the Hiſtorian) the pulſe and ſtrength of that Party, ſo that thoſe that are verſed in the Kingdom, believe that a few years of ſuch ſweet Poyſon (if he had not been diſabled in this courſe through want of Money) would have extinguiſhed that Faction, which ſo many years of deſperate Wars had not, with the Effuſion of ſo much Blood, been able to weaken.</q> 
+                  <hi>Violent courſes</hi> (ſays my Lord <hi>Cooke</hi>) <hi>are like hot Waters, that may do good in an Ex<g ref="char:EOLhyphen"/>tremity, but the uſe of them doth ſpoil the Stomach, and it will re<g ref="char:EOLhyphen"/>quire them ſtronger and ſtronger, and by little and little they will leſſen the Operation.</hi>
+               </p>
+               <p>
+                  <hi>They that love the Common wealth</hi> (ſays Judge <hi>Jenkins</hi>) <hi>will uſe means together with the Reſtitution of the King, to procure an A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t of Oblivion, and tender Conſciences a just and reaſonable ſa<g ref="char:EOLhyphen"/>tisfa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tion, elſe we muſt Periſh firſt or laſt.</hi>
+               </p>
+               <p>I will Crown theſe Teſtimonies with the experienced ad<g ref="char:EOLhyphen"/>vice of <hi>CHARLES</hi> the Firſt to our late Soveraign: <q rend="margQuotes">"Beware of Exaſperating any Faction by the croſneſs and a<g ref="char:EOLhyphen"/>ſperity of ſome mens Paſſions, Humours, or private Opini<g ref="char:EOLhyphen"/>ons employed by you, grounded only on the differences in leſſer matters, which are but the Skirts and Suburbs of Re<g ref="char:EOLhyphen"/>ligion, wherein a charitable Connivance, and Chriſtian To<g ref="char:EOLhyphen"/>leration, often diſſipate; their Strength, whom a rougher oppoſition fortifies, and puts their deſpiſed and oppreſſed Party into ſuch Combinations, as may moſt enable them to get a full Revenge on thoſe they count their Perſecutors, who are aſſiſted by that vulgar Commiſeration, which at<g ref="char:EOLhyphen"/>tends all that are ſaid to ſuffer under the notion of Religion-</q>
+               </p>
+               <p>There are two Rules in the Preamble of the Statute <hi>Primo Mariae;</hi> the one is, <hi>That the State of a King ſtand<g ref="char:EOLhyphen"/>eth more aſſured by the love of his Subjects than in the dread and fear of Laws.</hi> The other is, <hi>That Laws juſtly made, without extream Puniſhment, are more often, and for the moſt part better obey<g ref="char:EOLhyphen"/>ed, than thoſe that are made with that extremity.</hi> Unto which my once before-named Lord Chief Juſtice <hi>Cooke</hi> Subjoyns this Sentence, <hi>Mitius imperanti melius Paretur.</hi>
+               </p>
+               <p>I will cloſe up all with the end of a Speech of Sir <hi>Orlando Bridgeman</hi> to the Parliament, when he was Lord Keeper.</p>
+               <p>
+                  <q rend="margQuotes">"If any juſt grievances ſhall have happened, his Majeſty will be as willing and ready to redreſs them, as you to have them Preſented to him, and his Majeſty doubts not, but you will give healing and moderate Counſels, and Imprint that known Truth in the Hearts of his Subjects, that there is no diſtinct Intereſt between the King and his People, but the good of one, is the good of both.</q>
+               </p>
+               <p>
+                  <hi>Now this is the Copy of the Letter which</hi> Artaxerxes <hi>gave unto</hi> Ezra <hi>the Prieſt, I make a Decree, that all they of the People of</hi> Iſrael, <hi>and of his Prieſts and Levites in my Realm, which are minded of their own-free will to go up to</hi> Jeruſalem, <hi>go with thee.</hi>
+               </p>
+               <p>
+                  <hi>And</hi> Gamaliel <hi>stood up in the Council, and ſaid, Ye Men of</hi> Iſrael, <hi>take heed to your ſelves, refrain from theſe Men, and let them alone, for if this Counſel or this Work be of Men, it will come to nought; but if it be of God, ye cannot Overthrow it, lest haply ye be found even to Fight against God.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>R. Hayhurst</hi> in <hi>Little Britain,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
